@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_home_black_24dp"
+            android:tint="#EEE"
+            android:title="@string/home" />
+        <item
+            android:icon="@drawable/ic_person_black_24dp"
+            android:tint="#EEE"
+            android:title="@string/my_posts" />
+        <item
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:tint="#EEE"
+            android:title="@string/settings" />
+    </group>
+</menu>

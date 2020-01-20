@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hygge</string>
+    <string name="title_activity_add_post">Tilføj opslag</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="pick_place">Vælg sted</string>
+    <string name="posts">Opslag</string>
+    <string name="categories">Kategorier</string>
+    <string name="sign_out">Log ud</string>
+    <string name="home">Hjem</string>
+    <string name="my_posts">Mine opslag</string>
+    <string name="settings">Indstillinger</string>
+    <string name="title">Titel</string>
+    <string name="description">Beskrivelse</string>
+    <string name="delete_post">Slet opslag</string>
+    <string name="delete_sure">Er du sikker?</string>
+    <string name="yes">Ja</string>
+    <string name="delete_no">Nej</string>
+    <string name="delete_yes">Ja</string>
+</resources>

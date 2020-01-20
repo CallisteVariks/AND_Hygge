@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/primaryDarkColor"/>
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/launch_screen_1080p"/>
+    </item>
+</layer-list>
